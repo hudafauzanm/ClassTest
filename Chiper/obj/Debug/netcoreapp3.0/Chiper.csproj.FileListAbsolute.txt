@@ -1,0 +1,11 @@
+D:\Users\bsi50128\ClassTest\Chiper\obj\Debug\netcoreapp3.0\Chiper.csprojAssemblyReference.cache
+D:\Users\bsi50128\ClassTest\Chiper\obj\Debug\netcoreapp3.0\Chiper.AssemblyInfoInputs.cache
+D:\Users\bsi50128\ClassTest\Chiper\obj\Debug\netcoreapp3.0\Chiper.AssemblyInfo.cs
+D:\Users\bsi50128\ClassTest\Chiper\bin\Debug\netcoreapp3.0\Chiper.exe
+D:\Users\bsi50128\ClassTest\Chiper\bin\Debug\netcoreapp3.0\Chiper.deps.json
+D:\Users\bsi50128\ClassTest\Chiper\bin\Debug\netcoreapp3.0\Chiper.runtimeconfig.json
+D:\Users\bsi50128\ClassTest\Chiper\bin\Debug\netcoreapp3.0\Chiper.runtimeconfig.dev.json
+D:\Users\bsi50128\ClassTest\Chiper\bin\Debug\netcoreapp3.0\Chiper.dll
+D:\Users\bsi50128\ClassTest\Chiper\bin\Debug\netcoreapp3.0\Chiper.pdb
+D:\Users\bsi50128\ClassTest\Chiper\obj\Debug\netcoreapp3.0\Chiper.dll
+D:\Users\bsi50128\ClassTest\Chiper\obj\Debug\netcoreapp3.0\Chiper.pdb
