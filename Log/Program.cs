@@ -79,9 +79,6 @@ namespace Log
             _addFile.Append(debug);
             return null;
         }
-
-       
-
     }
     class Program
     {
